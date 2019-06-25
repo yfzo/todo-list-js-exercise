@@ -15,16 +15,6 @@ function newTask(title, description) {
   return task;
 }
 
-// // Print the state of a task to the console in a nice readable way
-// function logTaskState(task) {
-
-// }
-
-// // Mark a task as complete by setting the task's status in the `taskComplete` array to `true`
-// function completeTask(taskIndex) {
-//   task.complete = true;
-// }
-
 // DRIVER CODE BELOW
 
 const task1 = newTask("Clean Cat Litter", "Take all the 💩 out of the litter box");
